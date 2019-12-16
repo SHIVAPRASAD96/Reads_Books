@@ -1,1 +1,2 @@
 https://github.com/abhat222/Data-Science--Cheat-Sheet
+http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/index.html
